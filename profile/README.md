@@ -1,71 +1,44 @@
 # Orange Bricks
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aaa3dfac-3c53-44d6-bd3d-1f35e057c3c1" alt="Orange Bricks — Jupyter Dashboards in One Click with Auto Dashboards" width="100%" />
+  <img src="https://github.com/user-attachments/assets/aaa3dfac-3c53-44d6-bd3d-1f35e057c3c1" alt="Orange Bricks — Build data apps from notebooks" width="100%" />
 </p>
 
-Building AI-powered tools for the Jupyter ecosystem — turning notebooks into shareable, production-ready dashboards in one click.
+We build AI-powered tools for the Jupyter ecosystem. Turn notebooks into shareable dashboards and data apps in minutes.
 
-- **Focus**: JupyterLab extensions, developer tooling, and enterprise-ready workflows
+- **Focus**: JupyterLab extensions, developer tooling, and enterprise workflows
 - **What we do**: Open source products + custom Jupyter solutions for teams
 
-## Featured Product: Auto Dashboards
+## Featured: Auto Dashboards
 
-Convert Jupyter notebooks into beautiful, interactive dashboards and websites with a single click — right inside JupyterLab.
+From notebook to interactive dashboard in a click — right inside JupyterLab.
 
-[![PyPI version](https://img.shields.io/pypi/v/auto-dashboards.svg)](https://pypi.org/project/auto-dashboards/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/auto-dashboards)](https://pypistats.org/packages/auto-dashboards)
-[![GitHub stars](https://img.shields.io/github/stars/orbrx/auto-dashboards?style=social)](https://github.com/orbrx/auto-dashboards)
+- Generate clean Streamlit/Solara code with AI
+- Preview and iterate side‑by‑side
+- Export and share with stakeholders
 
-- **AI-powered conversion**: Uses OpenAI or local LLMs (Ollama) to turn notebooks into optimized dashboard code
-- **One-click generation**: Generate and preview dashboards side-by-side in JupyterLab
-- **Frameworks**: Streamlit and Solara available now; Gradio, Panel, Dash, and React exports coming next
-- **Branding**: Enterprise themes, logos, and templates (upcoming)
-- **Publishing**: Direct deployment to popular hosts (upcoming)
-- **Collaboration**: Share with stakeholders and non-technical teammates (upcoming)
-
-### Install
+### Quick install
 
 ```bash
 pip install auto-dashboards
 ```
 
-### Quickstart (JupyterLab 4.2+)
+## Who we build for
 
-1) Optional: set up an AI provider  
-   - OpenAI:
-     - `export OPENAI_API_KEY=your_key_here`
-   - Local LLMs (Ollama):
-     - `ollama serve`
-2) In JupyterLab, right‑click any notebook → “Generate Dashboard”  
-3) Preview, iterate, and export to your chosen framework
+- **Research & ML teams**: share experiments without refactoring
+- **Data science orgs**: ship stakeholder‑ready dashboards faster
+- **Platform engineering**: standardize notebook-to-app workflows
 
-### Roadmap Highlights
+## Learn more
 
-- More frameworks: Gradio, Panel, Dash, React exports
-- Template library and enterprise branding
-- Direct publishing to Vercel, GitHub Pages, Netlify, and more
-- Team sharing and collaboration
-- Ongoing improvements to AI conversion quality
+- **Website**: https://orbrx.io
+- **Product repo**: https://github.com/orbrx/auto-dashboards
+- **PyPI**: https://pypi.org/project/auto-dashboards/
 
-### Repositories
+## Open source and community
 
-- Auto Dashboards: https://github.com/orbrx/auto-dashboards
+We build in the open. Issues and PRs welcome in `orbrx/auto-dashboards`.
 
-### Contributing
-
-We welcome issues, feature requests, and PRs. Start here:
-- Open an issue on `orbrx/auto-dashboards` describing your use case
-- For significant changes, propose an approach in an issue before opening a PR
-
-### Support
-
-- Found a bug or need help? Open an issue on `orbrx/auto-dashboards`.
-
-### Security
-
-If you discover a security issue, please open a private issue and we’ll follow up promptly.
-
-### Licensing
+## Licensing
 
 Licenses vary by repository. See individual repos for details.
