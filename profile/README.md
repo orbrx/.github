@@ -1,8 +1,7 @@
 # Orange Bricks
 
 <p align="center">
-  <img src="./assets/orbrx-linkedin-banner.png" alt="Orange Bricks — Jupyter Dashboards in One Click with Auto Dashboards" width="100%" />
-  
+  <img src="https://github.com/user-attachments/assets/aaa3dfac-3c53-44d6-bd3d-1f35e057c3c1" alt="Orange Bricks — Jupyter Dashboards in One Click with Auto Dashboards" width="100%" />
 </p>
 
 Building AI-powered tools for the Jupyter ecosystem — turning notebooks into shareable, production-ready dashboards in one click.
