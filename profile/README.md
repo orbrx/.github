@@ -9,6 +9,13 @@ We build AI-powered tools for the Jupyter ecosystem. Turn notebooks into shareab
 - **Focus**: JupyterLab extensions, developer tooling, and enterprise workflows
 - **What we do**: Open source products + custom Jupyter solutions for teams
 
+## Our Projects
+
+| Project | Description | Status | Links |
+|---------|-------------|---------|-------|
+| **Auto Dashboards** | AI-powered JupyterLab extension that turns notebooks into interactive dashboards with Streamlit/Solara | Active | [GitHub](https://github.com/orbrx/auto-dashboards) • [PyPI](https://pypi.org/project/auto-dashboards/) |
+| **Dya** | Prompt Studio for JupyterLab | Coming Soon | [GitHub](https://github.com/orbrx/dya) |
+
 ## Featured: Auto Dashboards
 
 From notebook to interactive dashboard in a click — right inside JupyterLab.
