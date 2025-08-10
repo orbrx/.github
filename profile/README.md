@@ -1,7 +1,9 @@
 # Orange Bricks
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aaa3dfac-3c53-44d6-bd3d-1f35e057c3c1" alt="Orange Bricks — Build data apps from notebooks" width="100%" />
+  <a href="https://github.com/orbrx/auto-dashboards">
+    <img src="https://github.com/user-attachments/assets/aaa3dfac-3c53-44d6-bd3d-1f35e057c3c1" alt="Orange Bricks — Build data apps from notebooks" width="100%" />
+  </a>
 </p>
 
 We build AI-powered tools for the Jupyter ecosystem. Turn notebooks into shareable dashboards and data apps in minutes.
