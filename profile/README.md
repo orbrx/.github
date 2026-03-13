@@ -16,7 +16,7 @@ We build AI-powered tools for the Jupyter ecosystem. Turn notebooks into shareab
 | Project | Description | Status |
 |---------|-------------|---------|
 | [**JupyterLab Marketplace**](https://github.com/orbrx/jupyter-marketplace) | JupyterLab Extensions Catalog | Active |
-| [**Ripple**](https://github.com/orbrx/jupyterlab-ripple) | Reactive notebook execution in JupyterLab | Active |
+| [**Ripple**](https://github.com/orbrx/jupyterlab-ripple) | Reactive notebook execution in JupyterLab | [v0.1.0](https://pypi.org/project/jupyterlab-ripple/) |
 | [**Auto Dashboards**](https://github.com/orbrx/auto-dashboards) | AI-powered JupyterLab extension that turns notebooks into interactive dashboards with Streamlit/Solara | [v0.3.0](https://pypi.org/project/auto-dashboards/) |
 
 ## Featured: JupyterLab Marketplace
