@@ -15,23 +15,17 @@ We build AI-powered tools for the Jupyter ecosystem. Turn notebooks into shareab
 
 | Project | Description | Status |
 |---------|-------------|---------|
-| [**Jupyter Marketplace**](https://marketplace.orbrx.io/) | JupyterLab Extensions Catalog | Live |
-| [**Auto Dashboards**](https://github.com/orbrx/auto-dashboards) | AI-powered JupyterLab extension that turns notebooks into interactive dashboards with Streamlit/Solara | [v0.2.1](https://pypi.org/project/auto-dashboards/) |
-| [**Dya**](https://github.com/orbrx/dya) | Prompt Studio for JupyterLab | Coming Soon |
+| [**JupyterLab Marketplace**](https://github.com/orbrx/jupyter-marketplace) | JupyterLab Extensions Catalog | Active |
+| [**Ripple**](https://github.com/orbrx/jupyterlab-ripple) | Reactive notebook execution in JupyterLab | Active |
+| [**Auto Dashboards**](https://github.com/orbrx/auto-dashboards) | AI-powered JupyterLab extension that turns notebooks into interactive dashboards with Streamlit/Solara | [v0.3.0](https://pypi.org/project/auto-dashboards/) |
 
-## Featured: Auto Dashboards
+## Featured: JupyterLab Marketplace
 
-From notebook to interactive dashboard in a click — right inside JupyterLab.
+A catalog for discovering and managing JupyterLab extensions — making the ecosystem more accessible for everyone.
 
-- Generate clean Streamlit/Solara code with AI
-- Preview and iterate side‑by‑side
-- Export and share with stakeholders
-
-### Quick install
-
-```bash
-pip install auto-dashboards
-```
+- Browse and search JupyterLab extensions
+- Curated and community-driven listings
+- Simplifies extension discovery for teams
 
 ## Who we build for
 
@@ -42,12 +36,12 @@ pip install auto-dashboards
 ## Learn more
 
 - **Website**: https://orbrx.io
-- **Product repo**: https://github.com/orbrx/auto-dashboards
-- **PyPI**: https://pypi.org/project/auto-dashboards/
+- **JupyterLab Marketplace**: https://github.com/orbrx/jupyter-marketplace
+- **Auto Dashboards PyPI**: https://pypi.org/project/auto-dashboards/
 
 ## Open source and community
 
-We build in the open. Issues and PRs welcome in `orbrx/auto-dashboards`.
+We build in the open. Issues and PRs welcome across our repos.
 
 ## Licensing
 
