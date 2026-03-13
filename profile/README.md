@@ -6,7 +6,7 @@
   </a>
 </p>
 
-We build AI-powered tools for the Jupyter ecosystem. Turn notebooks into shareable dashboards and data apps in minutes.
+We empower the Jupyter ecosystem with extensions and tools. Find the best extensions, turn notebooks into shareable dashboards or iterate faster in Jupyter.
 
 - **Focus**: JupyterLab extensions, developer tooling, and enterprise workflows
 - **What we do**: Open source products + custom Jupyter solutions for teams
